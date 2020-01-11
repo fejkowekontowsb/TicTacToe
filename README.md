@@ -27,6 +27,11 @@ Prosta gra kółko i krzyżyk.
 - Zawiera UI Gry.
 
 
+### Opisy klas
+ - Player - dane gracza
+ - Game - klasa obsługująca całą gre
+ - Board - klasa zajmująca się planszą oraz sprawdzaniem czy na planszy jest wygrana ścieżka
+
 
 
 > ![Easter Egg](https://yt3.ggpht.com/a/AGF-l78AkSFRjviE3LHu3v_y_95342Ln7A6Bya3Imw=s48-c-k-c0xffffffff-no-rj-mo "Easter Egg")
