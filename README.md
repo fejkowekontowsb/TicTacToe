@@ -23,11 +23,6 @@ Prosta gra kółko i krzyżyk.
 
 
 
-[========]
-
-
-
-
 
 
 > ![Easter Egg](https://yt3.ggpht.com/a/AGF-l78AkSFRjviE3LHu3v_y_95342Ln7A6Bya3Imw=s48-c-k-c0xffffffff-no-rj-mo "Easter Egg")
