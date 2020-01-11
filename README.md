@@ -9,3 +9,14 @@
 
 - Gra typu kółko i krzyżyk :laughing:
 
+### Opis
+
+Prosta gra kółko i krzyżyk.
+
+### Elementy widoczne na ekranie głównym gry
+- Nazwa gry
+- Kolejka (wyświetla odpowiednio kolej: X lub kolej: O)
+- Plansza do gry, składająca się z tablicy 9 kwadratów
+- Tabela wyników (wyświetla wygrane dla X oraz O, ponadto wyświetla ilość rozegranych rund)
+- Po wygraniu gry przez X lub O, wyświetlany jest komunikat o wygraniu przez X lub O, w przypadku remisu, wyświetla komunikat "Remis"
+
