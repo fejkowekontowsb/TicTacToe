@@ -1,0 +1,9 @@
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\bin\Debug\netstandard2.0\TicTacToeMain.deps.json
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\bin\Debug\netstandard2.0\TicTacToeMain.dll
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\bin\Debug\netstandard2.0\TicTacToeMain.pdb
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.csprojAssemblyReference.cache
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.AssemblyInfoInputs.cache
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.AssemblyInfo.cs
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.dll
+C:\WORKSPACE\Git\PHP\TicTacToeGui\TicTacToeMain\obj\Debug\netstandard2.0\TicTacToeMain.pdb
