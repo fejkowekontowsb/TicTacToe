@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:TicTacToeGui"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="Kółko i Krzyżyk - K - to dopisac grupe i imiona" Height="750" Width="600" Visibility="Visible">
+        Title="Kółko i Krzyżyk - K25 Eryk Glaza, Maciej Adamczyk" Height="750" Width="600" Visibility="Visible">
 
     <Window.Resources>
         <Style TargetType="Button">
