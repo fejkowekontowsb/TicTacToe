@@ -28,7 +28,8 @@ Prosta gra kółko i krzyżyk.
 
 
 ### Opisy klas
- - Player - dane gracza
+ - Player - podstawowe dane gracza
+ - GamePlayer - dane gracza potrzebne do gry
  - Game - klasa obsługująca całą gre
  - Board - klasa zajmująca się planszą oraz sprawdzaniem czy na planszy jest wygrana ścieżka
 
